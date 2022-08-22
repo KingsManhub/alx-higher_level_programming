@@ -1,0 +1,3 @@
+Starting with the alx basics... 
+1. 0-run
+
