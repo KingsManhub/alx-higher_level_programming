@@ -8,6 +8,6 @@ def uppercase(str):
         space = ord(i) == ord(" ") or ord(i) == ord("")
         digit = ord(i) >= 48 and ord(i) <= 57
         if cap or space or digit:
-            print(f"{}".format(i), end="")
+            print("{}".format(i), end="")
         else:
             print("")
