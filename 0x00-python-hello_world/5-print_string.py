@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 str = "Holberton School"
 print(f"{str*3}")
-print(f"{str[:10]}")
+strslice = str[:9]
+print(f"{[strslice]}")
