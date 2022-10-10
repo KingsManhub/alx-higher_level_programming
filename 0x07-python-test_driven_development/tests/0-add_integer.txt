@@ -58,4 +58,9 @@ Fitting in a list will also throw an error at where it's used as argument
 Traceback (most recent call last):
 TypeError: a must be an integer
 
+::
+Using a None value as argument 
 
+>>> add_integer(None)
+Traceback (most recent call last):
+TypeError: a must be an integer
